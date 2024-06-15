@@ -1,7 +1,7 @@
 title: "Mi Sitio Jekyll Personalizado"
 description: "Documentación y ejemplos para mi sitio Jekyll personalizado."
 baseurl: "/docs" # solo si el sitio está en una subcarpeta
-url: "https://tusitio.github.io" # la URL de tu sitio
+url: "https://staffv77.github.io/staffdocs/" # la URL de tu sitio
 theme: null
 markdown: kramdown
 
