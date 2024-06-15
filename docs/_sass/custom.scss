@@ -1,0 +1,32 @@
+$primary-color: #3498db;
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background: $primary-color;
+  color: white;
+  padding: 1em;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 1em;
+}
+
+main {
+  padding: 1em;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #f4f4f4;
+}
