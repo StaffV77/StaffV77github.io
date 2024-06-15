@@ -1,0 +1,20 @@
+title: "Mi Sitio Jekyll Personalizado"
+description: "Documentación y ejemplos para mi sitio Jekyll personalizado."
+baseurl: "/docs" # solo si el sitio está en una subcarpeta
+url: "https://tusitio.github.io" # la URL de tu sitio
+theme: null
+markdown: kramdown
+
+# Configuración del sitio
+include:
+  - _pages
+  - _posts
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configuración de Sass
+sass:
+  style: compressed
